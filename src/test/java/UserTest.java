@@ -1,5 +1,8 @@
+package src.test.java;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import src.main.java.User;
 
 import java.util.Arrays;
 import java.util.List;
